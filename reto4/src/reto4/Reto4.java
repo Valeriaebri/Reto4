@@ -3,8 +3,42 @@ package reto4;
 public class Reto4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Parte de Claudiu
 
+		
+		
+		
+		
+		
+		
+		
+		// parte de Bianca
+		
+		
+		
+		
+		
+		
+		
 	}
+	
+	
+	// Parte de Claudiu
+
+	
+	
+	
+	
+	
+	
+	
+	// parte de Bianca
+	
+	
+	
+	
+	
+	
+	
 
 }
